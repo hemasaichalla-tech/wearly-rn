@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Wearly",
+    "slug": "wearly-rn",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F5F3F0"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.wearly.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F5F3F0"
+      },
+      "package": "com.wearly.app"
+    },
+    "fonts": []
+  }
+}
